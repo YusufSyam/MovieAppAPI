@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Movie"
+        android:id="@+id/nav_movie"
+        android:icon="@drawable/ic_baseline_movie_24"/>
+    <item
+        android:title="Tv"
+        android:id="@+id/nav_tvShow"
+        android:icon="@drawable/ic_baseline_live_tv_24"/>
+    <item
+        android:title="Bookmark"
+        android:id="@+id/nav_bookmark"
+        android:icon="@drawable/ic_baseline_bookmarks_24"/>
+
+
+
+</menu>
